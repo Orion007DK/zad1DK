@@ -15,5 +15,6 @@
       <li>cd zad1DK</li>
       <li>docker-compose up</li>
       </ol>
-      (https://user-images.githubusercontent.com/68682970/148396001-b1e718df-d521-40bf-aa54-dd12e0bdcfa1.png)     
-      (https://user-images.githubusercontent.com/68682970/148396617-2c9b1641-b698-436c-a475-25b2b56029ec.jpg)
+      <h2>Dowód wykonania:</h2>
+<img src="https://github.com/Orion007DK/zad1DK/blob/main/screen1.jpg">
+<img src="https://github.com/Orion007DK/zad1DK/blob/main/screen2.jpg">

@@ -1,4 +1,5 @@
 # zad1DK
+Zadanie wykonane na podstawie laboratorium nr 9
 <h2>Wprowadzone zmiany:</h2>
       <ul>
       <li>Zmiana struktury strony(dodanie podziału na kalkulator i dokumentację)</li>

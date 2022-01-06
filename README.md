@@ -15,5 +15,5 @@
       <li>cd zad1DK</li>
       <li>docker-compose up</li>
       </ol>
-      ![obraz](https://user-images.githubusercontent.com/68682970/148396001-b1e718df-d521-40bf-aa54-dd12e0bdcfa1.png)     
-![screen2](https://user-images.githubusercontent.com/68682970/148396617-2c9b1641-b698-436c-a475-25b2b56029ec.jpg)
+      (https://user-images.githubusercontent.com/68682970/148396001-b1e718df-d521-40bf-aa54-dd12e0bdcfa1.png)     
+      (https://user-images.githubusercontent.com/68682970/148396617-2c9b1641-b698-436c-a475-25b2b56029ec.jpg)
